@@ -10,15 +10,13 @@ We are a vibrant community of individuals driven by a shared passion for the eve
 
 - **Development Support**: Our community thrives on mutual support. Ask questions, share answers, and enjoy a collaborative learning experience.
 
-## Join Us!
-
-### Who Can Join?
+## Who Can Join?
 
 Our club is open to students of all experience levels, from beginners to seasoned programmers. We celebrate diversity in backgrounds, specialties, and qualifications.
 
-### How to Join?
+## How to Join?
 
-1. **Fill out the application**: Click “JoinTheClub” on our website or in our Telegram bot to fill out the membership application.
+1. **Fill out the application**: Click “JoinTheClub” on [our website](https://seadclub.online) to fill out the membership application.
    
 2. **Wait for our response**: After submitting your application, our club will get in touch with you soon!
 
