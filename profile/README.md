@@ -20,6 +20,6 @@ Our club is open to students of all experience levels, from beginners to seasone
    
 2. **Wait for our response**: After submitting your application, our club will get in touch with you soon!
 
-## Let's Build the Future Together!
+## Let's become greater/smarter daily!
 
 Connect with fellow students who share your passion for software development. Build meaningful relationships, exchange ideas, and collaborate on exciting projects. Our community is not just a club; it's a place to find friends and grow your skills together.
